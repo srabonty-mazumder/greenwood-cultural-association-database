@@ -1,7 +1,7 @@
 # Greenwood Cultural Association – Database System
 
 ## 📌 Project Overview
-This project was developed as part of the Data Management course at Haaga-Helia University of Applied Sciences.
+This project was developed as part of the Data Management course at Haaga-Helia University of Applied Sciences. It was group work. 
 
 The system is a prototype database solution for the Greenwood Cultural Association, designed to manage:
 
@@ -92,9 +92,8 @@ All scripts are designed for Microsoft SQL Server.
 
 ## 👤 Author
 
- **Srabonty Mazumder** 
-📧 srabonty.shokal@gmail.com  
-📍 Finland 
+**Srabonty Mazumder** 
+📧 srabonty.shokal@gmail.com   Finland 
 **Md Zahidul Islam** 
 📧 izahid360@gmail.com  
 📍 Finland 
