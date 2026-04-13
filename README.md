@@ -89,3 +89,14 @@ Through this project, I strengthened my skills in:
 4. Execute `04_test_transactions.sql`
 
 All scripts are designed for Microsoft SQL Server.
+
+## 👤 Author
+
+ **Srabonty Mazumder** 
+📧 srabonty.shokal@gmail.com  
+📍 Finland 
+**Md Zahidul Islam** 
+📧 izahid360@gmail.com  
+📍 Finland 
+
+---
